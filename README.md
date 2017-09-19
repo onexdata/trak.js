@@ -1,4 +1,6 @@
-# trak.js - Universal analytics event tracking API wrapper
+# trakify.js - Universal analytics event tracking API wrapper based on trak.js
+
+This was forked to add support for New Relic.
 
 Put simply, **trak.js** is a wrapper for any analytics API. By default it uses Google Universal Analytics but you can override this with the older ga.js or Google Tag Manager if you wish, or you can even add custom event trackers as well, instead of Google Analytics.
 
